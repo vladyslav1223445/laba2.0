@@ -1,0 +1,17 @@
+﻿  56356356.cpp
+C:\Users\VICTUS\source\repos\laba 2.0\laba 2.1\laba 2.1\56356356.cpp(21,19): error C3688: invalid literal suffix 'pi'; literal operator or literal operator template 'operator ""pi' not found
+C:\Users\VICTUS\source\repos\laba 2.0\laba 2.1\laba 2.1\56356356.cpp(21,25): error C2065: 'a': undeclared identifier
+C:\Users\VICTUS\source\repos\laba 2.0\laba 2.1\laba 2.1\56356356.cpp(21,13): error C2064: term does not evaluate to a function taking 1 arguments
+C:\Users\VICTUS\source\repos\laba 2.0\laba 2.1\laba 2.1\56356356.cpp(21,47): error C3688: invalid literal suffix 'pi'; literal operator or literal operator template 'operator ""pi' not found
+C:\Users\VICTUS\source\repos\laba 2.0\laba 2.1\laba 2.1\56356356.cpp(21,53): error C2065: 'a': undeclared identifier
+C:\Users\VICTUS\source\repos\laba 2.0\laba 2.1\laba 2.1\56356356.cpp(21,40): error C2064: term does not evaluate to a function taking 1 arguments
+C:\Users\VICTUS\source\repos\laba 2.0\laba 2.1\laba 2.1\56356356.cpp(24,3): error C2146: syntax error: missing ';' before identifier 'cout'
+  FileName.cpp
+C:\Users\VICTUS\source\repos\laba 2.0\laba 2.1\laba 2.1\FileName.cpp(21,19): error C3688: invalid literal suffix 'pi'; literal operator or literal operator template 'operator ""pi' not found
+C:\Users\VICTUS\source\repos\laba 2.0\laba 2.1\laba 2.1\FileName.cpp(21,25): error C2065: 'a': undeclared identifier
+C:\Users\VICTUS\source\repos\laba 2.0\laba 2.1\laba 2.1\FileName.cpp(21,13): error C2064: term does not evaluate to a function taking 1 arguments
+C:\Users\VICTUS\source\repos\laba 2.0\laba 2.1\laba 2.1\FileName.cpp(21,47): error C3688: invalid literal suffix 'pi'; literal operator or literal operator template 'operator ""pi' not found
+C:\Users\VICTUS\source\repos\laba 2.0\laba 2.1\laba 2.1\FileName.cpp(21,53): error C2065: 'a': undeclared identifier
+C:\Users\VICTUS\source\repos\laba 2.0\laba 2.1\laba 2.1\FileName.cpp(21,40): error C2064: term does not evaluate to a function taking 1 arguments
+C:\Users\VICTUS\source\repos\laba 2.0\laba 2.1\laba 2.1\FileName.cpp(24,3): error C2146: syntax error: missing ';' before identifier 'cout'
+  Generating Code...
